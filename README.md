@@ -2,7 +2,8 @@
 
 Program that rotates a matrix clockwise or counterclockwise.
 
-The user needs to enter the number of 90 degree turns clockwise. The program will also take negative values ​​(counterclockwise rotation).
+The user needs to enter the number of 90 degree turns clockwise. The program will also take negative values (counterclockwise rotation).
+
 ---
 # Поворот матрицы
 
